@@ -9,20 +9,6 @@
 
 
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-<!-- [![Contributors][contributors-shield]][contributors-url] -->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-<!-- [![MIT License][license-shield]][license-url] -->
 
 
 <!-- PROJECT LOGO -->
@@ -203,16 +189,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ayitharevanth/todolist-mern.svg?style=for-the-badge
-[contributors-url]: https://github.com/ayitharevanth/todolist-mern/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ayitharevanth/todolist-mern.svg?style=for-the-badge
-[forks-url]: https://github.com/ayitharevanth/todolist-mern/network/members
-[stars-shield]: https://img.shields.io/github/stars/ayitharevanth/todolist-mern.svg?style=for-the-badge
-[stars-url]: https://github.com/ayitharevanth/todolist-mern/stargazers
-[linkedin-url]:https://www.linkedin.com/in/revanth-ayitha-1b5308243/
-[product-screenshot]: images/screenshot.png
 
 [Behance]: https://img.shields.io/badge/behance-0057FF?style=for-the-badge&logo=behance&logoColor=white
 [Behance-url]: https://www.behance.net/
