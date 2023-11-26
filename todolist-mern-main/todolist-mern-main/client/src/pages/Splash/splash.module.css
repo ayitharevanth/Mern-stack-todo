@@ -1,0 +1,26 @@
+.wrapper {
+  z-index: 20;
+  background-color: #3870fb;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+
+  --mask: radial-gradient(11.18vw at 50% 15vw, #000 99%, #0000 101%)
+      calc(50% - 10vw) 0/20vw 100%,
+    radial-gradient(11.18vw at 50% -10vw, #0000 99%, #000 101%) 50% 5vw/20vw
+      100% repeat-x;
+  -webkit-mask: var(--mask);
+  mask: var(--mask);
+}
+
+.items {
+  align-self: center;
+
+  @media (min-width: 900px) {
+    margin-top: 5rem;
+  }
+}
