@@ -34,14 +34,14 @@
   <p align="center">
     The application allows the user to add and delete tasks.
     <br />
-    <a href="https://github.com/propanibutan/todolist-mern"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ayitharevanth/todolist-mern"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/github_username/repo_name">View Demo</a> -->
     <!-- · -->
-    <a href="https://github.com/propanibutan/todolist-mern/issues">Report Bug</a>
+    <a href="https://github.com/ayitharevanth/todolist-mern/issues">Report Bug</a>
     ·
-    <a href="https://github.com/propanibutan/todolist-mern/issues">Request Feature</a>
+    <a href="https://github.com/ayitharevanth/todolist-mern/issues">Request Feature</a>
   </p>
 </div>
 
@@ -120,7 +120,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/propanibutan/todolist-mern.git
+   git clone https://github.com/ayitharevanth/todolist-mern.git
    ```
 3. Install NPM packages
    ```sh
@@ -165,7 +165,7 @@ This is an example of how to list things you need to use the software and how to
     - [ ] Todos Logic
     - [ ] Login Frontend
 
-See the [open issues](https://github.com/propanibutan/todolist-mern/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ayitharevanth/todolist-mern/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,30 +198,20 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
 
-- Patrycja Zalas - [Linkedin](https://www.linkedin.com/in/patrycja-zalas/) - zalas.patrycja@gmail.com
-
-Project Link: [https://github.com/propanibutan/todolist-mern](https://github.com/propanibutan/todolist-mern)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/propanibutan/todolist-mern.svg?style=for-the-badge
-[contributors-url]: https://github.com/propanibutan/todolist-mern/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/propanibutan/todolist-mern.svg?style=for-the-badge
-[forks-url]: https://github.com/propanibutan/todolist-mern/network/members
-[stars-shield]: https://img.shields.io/github/stars/propanibutan/todolist-mern.svg?style=for-the-badge
-[stars-url]: https://github.com/propanibutan/todolist-mern/stargazers
-[issues-shield]: https://img.shields.io/github/issues/propanibutan/todolist-mern.svg?style=for-the-badge
-[issues-url]: https://github.com/propanibutan/todolist-mern/issues
-[license-shield]: https://img.shields.io/github/license/propanibutan/todolist-mern.svg?style=for-the-badge
-[license-url]: https://github.com/propanibutan/todolist-mern/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/patrycja-zalas/
+[contributors-shield]: https://img.shields.io/github/contributors/ayitharevanth/todolist-mern.svg?style=for-the-badge
+[contributors-url]: https://github.com/ayitharevanth/todolist-mern/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ayitharevanth/todolist-mern.svg?style=for-the-badge
+[forks-url]: https://github.com/ayitharevanth/todolist-mern/network/members
+[stars-shield]: https://img.shields.io/github/stars/ayitharevanth/todolist-mern.svg?style=for-the-badge
+[stars-url]: https://github.com/ayitharevanth/todolist-mern/stargazers
+[linkedin-url]:https://www.linkedin.com/in/revanth-ayitha-1b5308243/
 [product-screenshot]: images/screenshot.png
 
 [Behance]: https://img.shields.io/badge/behance-0057FF?style=for-the-badge&logo=behance&logoColor=white
